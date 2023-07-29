@@ -1,0 +1,7 @@
+/target/
+/allure-results/
+/extent-reports/
+/allure-report/
+/archive/
+/execution-summary/
+allure*/
